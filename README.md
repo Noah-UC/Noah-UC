@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My Name is Uddeep, and I'm a 4th year PhD Candidate in Dr. Leslie Berg's lab [lab-twitter](https://x.com/immunoberg). 
+We study signaling in CD8 T cells. My thesis work is centered around trasncription factors of the IRF family in CD8 T cell differentiation.
+
+You can find my CV here: 
+
 <!--
 **Noah-UC/Noah-UC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
